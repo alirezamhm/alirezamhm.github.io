@@ -1,6 +1,6 @@
 ---
-title: "Allameh Tabatabaei High School Advanced Campus"
+title: "Bachelor, Sharif University of Technology"
 collection: educations
-permalink: /educations/high school
+permalink: /educations/university
 ---
-August 2014 – June 2018
+September 2018 – Present
