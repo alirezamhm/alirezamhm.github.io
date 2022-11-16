@@ -9,5 +9,7 @@ redirect_from:
 ---
 
 Computer Engineering bachelor student at the [Sharif University of Technology](https://en.sharif.edu/) since 2018.
+
 Data Scientist at [Metodata](http://metodata.ai/).
+
 My interests include Machine Learning, Data Science, Natural Language Processing and Bioinformatics.
